@@ -1,3 +1,4 @@
+
 # Print the mean of the numbers given in a file
 
 import sys
@@ -15,3 +16,5 @@ print sum / n
 # Harrassment
 
 print "Hello Yoshi. This code doesn't really do very much."
+
+print "Oh yeah, and I deleted your non-functional SE calculation."
