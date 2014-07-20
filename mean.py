@@ -12,8 +12,6 @@ for num in open('data.txt'):
 
 print sum / n
 
-#calculate SEM
+# Harrassment
 
-avg = sum / n
-
-# std = avg/sqrt()
+print "Hello Yoshi. This code doesn't really do very much."
