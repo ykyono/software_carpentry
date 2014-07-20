@@ -1,4 +1,4 @@
-# Print the mea of the numbers given in a file
+# Print the mean of the numbers given in a file
 
 import sys
 
@@ -11,3 +11,9 @@ for num in open('data.txt'):
     n += 1
 
 print sum / n
+
+#calculate SEM
+
+avg = sum / n
+
+# std = avg/sqrt()
